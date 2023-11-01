@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "vue": "3.3.7"
+  },
+  "devDependencies": {
+    "vite": "^4.5.0"
+  }
+}
